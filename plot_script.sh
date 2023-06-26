@@ -1,0 +1,41 @@
+# 5 kb SNPs > 10
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2L_fixed_win_5000_threshold10.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2R_fixed_win_5000_threshold10.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3L_fixed_win_5000_threshold10.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3R_fixed_win_5000_threshold10.csv
+
+
+# 5 kb SNPs > 25
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2L_fixed_win_5000_threshold25.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2R_fixed_win_5000_threshold25.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3L_fixed_win_5000_threshold25.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3R_fixed_win_5000_threshold25.csv
+
+
+# 50 kb SNPs > 100
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2L_fixed_win_50000_threshold100.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2R_fixed_win_50000_threshold100.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3L_fixed_win_50000_threshold100.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3R_fixed_win_50000_threshold100.csv
+
+
+# 50 kb SNPs > 250
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2L_fixed_win_50000_threshold250.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome2R_fixed_win_50000_threshold250.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3L_fixed_win_50000_threshold250.csv
+
+python3 entropy_plot_agg_sliding_windows.py -i Entropy_Linvilla_agg_chromosome3R_fixed_win_50000_threshold250.csv
+
+
+
